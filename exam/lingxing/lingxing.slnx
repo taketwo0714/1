@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lingxing/lingxing.vcxproj" Id="3fcea1a5-cf02-43c4-8dea-2e908749541a" />
+</Solution>

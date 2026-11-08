@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="caishuzi/caishuzi.vcxproj" Id="4cbcd7ce-d7d6-436b-a1b3-fe600f7f71f8" />
+</Solution>

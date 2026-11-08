@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cai2/cai2.vcxproj" Id="334a3190-f306-49fe-a434-ee31ab57320b" />
+</Solution>

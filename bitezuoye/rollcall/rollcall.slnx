@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rollcall/rollcall.vcxproj" Id="7b3c2d51-9f4a-4e6b-9c2d-5a1e8f3b7c40" />
+</Solution>

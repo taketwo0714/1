@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="duohang/duohang.vcxproj" Id="f85cab73-2984-4e1c-9193-6989a5e72df6" />
+</Solution>
